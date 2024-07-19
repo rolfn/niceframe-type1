@@ -10,4 +10,4 @@ The Type1 versions of the fonts
 are created using the font editor `fontforge` with a bit 
 handwork for `umranda.pfb'.
 
-Rolf Niepraschk, 2023-08-17
+Rolf Niepraschk, 2024-07-19
